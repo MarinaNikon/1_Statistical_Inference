@@ -1,5 +1,5 @@
 #Assignment 1_Parametric tests
-#Marina Nikonchuk
+#Marina Nikon
 
 #Import VAS DATA and name it as pain_vas. 
 pain_vas<-read.csv(file.choose(), header = TRUE)
