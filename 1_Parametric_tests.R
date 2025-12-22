@@ -1,6 +1,23 @@
 #Assignment 1_Parametric tests
 #Marina Nikon
 
+#BACKGROUND:
+#In a randomized control trial, 32 patients were divided into
+#two groups: A and B. Group A received test drug whereas group B
+#received placebo. The variable of interest was ‘Change in pain
+#level’ measured by visual analogue scale (VAS)’ before treatment
+#and after 3 days of treatment.
+
+#QUESTIONS:
+#1 Import VAS DATA and name it as pain_vas. Check for normality of the data.
+#2 Is post treatment VAS score significantly less as compared
+# to ‘before treatment’ VAS score for Group A? 
+#3 Is post treatment VAS score significantly less as compared
+# to ‘before treatment’ VAS score for Group B? 
+#4 Is the average change in pain level for group ‘A’ significantly
+# more than group ‘B’? 
+#5 Present change in pain level for each group using box-whisker plot.
+
 #Import VAS DATA and name it as pain_vas. 
 pain_vas<-read.csv(file.choose(), header = TRUE)
 str(pain_vas)
