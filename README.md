@@ -7,7 +7,9 @@ The objective is to evaluate changes in pain levels before and after treatment a
 ## Objective
 To assess whether the test drug leads to a statistically significant reduction in pain compared to placebo using parametric statistical methods.
 
-## Dataset Description
+## Dataset
+The dataset (`vas_data.csv`) is included in the repository and located in the root directory.
+
 The dataset contains observations from **32 patients** randomly assigned to two groups:
 - **Group A** — test drug  
 - **Group B** — placebo  
@@ -45,13 +47,11 @@ Key variables:
 - Hypothesis testing
 - Data visualization
 
-
 ## How to Run the Project
 1. Clone the repository
-2. Open the R script
-3. Load the dataset when prompted (`file.choose()`)
+2. Open the R script in R or RStudio
+3. The dataset (`vas_data.csv`) is already included in the repository
 4. Run the script sequentially
-
 
 ## Notes
 This project was completed for educational purposes and demonstrates the application of parametric statistical tests in R.
