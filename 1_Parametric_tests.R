@@ -19,7 +19,8 @@
 #5 Present change in pain level for each group using box-whisker plot.
 
 #Import VAS DATA and name it as pain_vas. 
-pain_vas<-read.csv(file.choose(), header = TRUE)
+pain_vas<-read.csv("vas_data.csv", header = TRUE)
+#pain_vas<-read.csv(file.choose(), header = TRUE)
 str(pain_vas)
 head(pain_vas)
 dim(pain_vas)
