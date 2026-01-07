@@ -38,7 +38,10 @@ Key variables:
 
 ## Key Findings
 - Both groups showed a reduction in pain after treatment  
-- The mean reduction in pain was **significantly greater in Group A** compared to Group B  
+- The mean reduction in pain was **significantly greater in Group A** compared to Group B
+
+  ## Visualization
+![Boxplot of pain reduction by group](results/boxplot_pain_change.png)
 
 ## Tools and Skills
 - R
