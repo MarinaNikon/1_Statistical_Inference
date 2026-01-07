@@ -39,7 +39,6 @@ Key variables:
 ## Key Findings
 - Both groups showed a reduction in pain after treatment  
 - The mean reduction in pain was **significantly greater in Group A** compared to Group B  
-- Results suggest a stronger analgesic effect of the test drug relative to placebo
 
 ## Tools and Skills
 - R
